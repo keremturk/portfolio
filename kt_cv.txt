@@ -1,0 +1,113 @@
+Kerem Türkyılmaz
+
+
+Total Experience: 12 years 4 months
+Intellica Experience: 15 months
+
+About Me
+I am a competent BI / business analyst with 11 years' experience in the energy sector.  I have worked on data analysis on my previous jobs. Using my knowledge about statistics, modelling, SQL and reporting skills, improve and contribute BI / business analysis works. 
+I have 6 years' experience on Oracle Products (DB, OBIEE, ODI, CCB). I have been on İzmirgaz / Esgaz OBIEE and CCB (Customer Care & Billing) project as BI analyst and developer. We have built DWH using CCB data and OBIEE. Team player, analytical, social, flexible and accurate.
+
+
+
+
+Company: Intellica
+Title: Senior BI Consultant
+Date: 05.2024 - Present
+Projects
+
+Company: Birbank (Azerbaijan)
+Title: Senior BI Consultant
+Date: 04.2025 - Present
+Project: Birbank RebootX (DWH) project (Currently going on)
+Technologies: Impala, Airflow, Hue
+Summary: I led the team responsible for source system analysis and data mapping on the Birbank RebootX data warehouse project. My main role was to guide my team in studying our various data sources to fully understand the data's structure and the business rules behind it. We then created the detailed mapping documents that acted as a clear guide for the development team, showing them exactly how to move data from the old systems to the new warehouse. I worked closely with both business and tech teams to make sure our plans were accurate and met everyone's needs, building a solid foundation for the entire project.
+
+
+Company: Boyner
+Title: Senior BI Consultant
+Date: 05.2024 - 04.2025
+Project: Dataverse DWH Project (Completed)
+Technologies: Oracle ODI 12C, IBM Data Stage
+Summary: I contributed significantly to the development of the data mart component within the new data warehouse model for Boyner, one of Turkey’s leading companies in the e-commerce and retail sectors. Collaborating closely with various business units, I analyzed their data requirements and translated these needs into effective data models. 
+My responsibilities included designing and creating data mappings to ensure data flow from source systems to the data mart. I also conducted comprehensive testing to validate the accuracy and integrity of the data. The ETL processes were developed using Oracle Data Integrator 12c, ensuring that data was accurately loaded into the data mart tables. This structured data was then made available for analysis and reporting through the MicroStrategy tool, facilitating informed decision-making across the organization.
+
+
+
+
+
+Company: SU Bilgi Teknolojileri
+Title: Business Analyst Team Lead
+Date: 03.2023 - 05.2024 
+Summary: Lead and manage a team of business analysts, providing direction, guidance, and support to ensure the successful completion of projects.
+Collaborate with stakeholders to understand business requirements and translate them into actionable deliverables.
+Develop and maintain strong relationships with stakeholders, ensuring effective communication and alignment of goals and objectives.
+Provide training and mentorship to team members, fostering their professional growth and development.
+Monitor and evaluate team performance, providing feedback and implementing improvements as necessary.
+Contribute to the continuous improvement of business analysis methodologies and processes.
+
+Company: SU Bilgi Teknolojileri
+Title: Business Analyst
+Date: 06.2021 – 03.2023
+Summary: Organize the intranet to match customer requirements.
+Provide solutions for the customer requirements.
+Create analysis documentation of solutions for the software development team.
+Support the development team with any questions they may have about product requirements.
+Perform quality assurance on all products and related processes.
+Analyze and Improve business processes.
+
+Company: İzmirgaz
+Title: BI Analyst / Developer
+Date: 06.2020 – 06.2021
+Summary: According to business requirements develop and maintain data warehouse and create dashboards and reports using OBIEE.
+Design ELT processes to extract, load and transform data using Oracle SQL package / procedures and ODI (Oracle DB to Oracle DB)
+Provide technical support and training to end-users on OBIEE.
+
+Company: İzmirgaz
+Title: Eligible Customers Supervisor 
+Date: 01.2020 – 06.2020
+Summary: Analyze business requirements during Oracle Customer Care and Billing software implementation project. Supervise end user tests of Oracle CC&B software development.
+Analyze business requirements during Oracle Business Intelligence software implementation project.
+ Leading customer operations (billing, contract)
+Analyzing customer data, provide reports for annual budget.
+
+Company: İzmirgaz
+Title: Forecasting and Reporting Supervisor 
+Date: 03.2013 – 01.2020
+Summary: Forecasting natural gas consumption. Preparing monthly and annual reports using Oracle database.
+
+ 
+
+
+
+Master’s degree
+Izmir University of Economics, Applied Statistics, master’s degree, 2006 -2009
+
+Graduate Degree
+Izmir University of Economics, Mathematics, bachelor’s degree, 2002-2006
+Izmir University of Economics, Economics, double major, 2003-2006
+
+
+
+
+Certificate
+PMI and MS Project
+ISO 9001,14001 Internal Auditing
+Advance Excel
+Effective Communication
+Executive Coaching  
+Training & Technical Skill 
+
+•	BI & Data Warehousing: OBIEE, Power BI, IBM Data Stage, MicroStrategy
+•	AI & Machine Learning: Large Language Models (LLMs), AI Agent Frameworks, Prompt Engineering, Gemini-CLI, Cloude Code
+•	ETL/Data Integration: Oracle Data Integrator (ODI) 12c, Airflow
+•	Databases & Big Data: Oracle DB, Impala, SQL
+•	Languages: Python (for Data Analysis), SQL
+•	Tools & Platforms: Jira, GitLab, Hue, Linux, MS Project
+
+
+
+
+
+
+
