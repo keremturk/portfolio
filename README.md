@@ -1,4 +1,4 @@
-# Kerem Turan - Professional Portfolio
+# Kerem Türkyılmaz - Professional Portfolio
 
 Welcome to my professional portfolio website! This site showcases my 11+ years of experience in Business Intelligence, Data Analytics, and Enterprise Data Solutions.
 
